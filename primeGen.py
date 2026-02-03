@@ -1,3 +1,5 @@
+## Phil Lane
+
 import math
 import time
 import matplotlib.pyplot as plt
@@ -218,4 +220,5 @@ def main():
     PrimePerformanceAnalyzer.visualize_gaps(twin_prime_gaps, 'Twin Prime Gaps', 'Gap Size Between Twin Primes')
 
 if __name__ == "__main__":
+
     main()
